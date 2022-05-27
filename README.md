@@ -1,9 +1,9 @@
 ![Header](./github-header-image.png)
 
 - 🧑‍🎓 I am pursuing MS in Data Analytics Engineering at Northeastern University, Boston
-- 👀 I’m interested in Machine learning, Deep learning, Artificial Intelligence, Data Mining, Computer Vision, Data Engineering, and Analytics
+- 👀 I’m interested in Machine learning, Deep learning, Artificial Intelligence, Data Science, Data Mining, Data Engineering
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 📫 How to reach me### Hi there 👋
+- 📫 How to reach me
 
 <!--
 **srinisrika/srinisrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
