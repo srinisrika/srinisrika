@@ -1,3 +1,5 @@
+![Header](./[https://github.com/srinisrika/srinisrika/blob/main/github-header-image.png])
+
 ### Hi there, I’m Srinidhi :) 👋
 - 🧑‍🎓 I am pursuing MS in Data Analytics Engineering at Northeastern University, Boston
 - 👀 I’m interested in Machine learning, Deep learning, Artificial Intelligence, Data Mining, Computer Vision, Data Engineering, and Analytics
