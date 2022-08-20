@@ -4,7 +4,7 @@
 - 👀 I’m interested in Machine learning, Deep learning, Artificial Intelligence, Data Science, Data Mining, Data Engineering
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 How to reach me
-[:smile:](https://www.linkedin.com/in/srinidhi-srikanth-vaidheeswaran-8539461a4/)
+[:email:](a href=<mailto:="srioct2@gmail.com">)
 
 <!--
 **srinisrika/srinisrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
